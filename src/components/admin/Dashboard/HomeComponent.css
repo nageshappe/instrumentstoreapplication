@@ -1,0 +1,18 @@
+.div
+{
+    justify-items: center;
+    display: inline-flex;
+}
+.card{
+    display: flex;
+    margin: 20px;
+    height: -webkit-fill-available;
+    width: 300px;
+    height: auto;
+}
+.ul{
+    align-items: center;
+}
+/* .media{
+    background-image: url("../assets/images/fur1.jpg");
+} */

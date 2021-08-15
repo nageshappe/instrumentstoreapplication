@@ -1,0 +1,71 @@
+.main{
+    margin: 5%;
+}
+.image
+{
+    background-color: #ffe5cc;
+    margin-top: 25%;
+    margin-bottom: 5%;
+    float: left;
+    background-image: './assets/images/fur1.jpg';
+    align-content: baseline;
+    word-break: break-word;
+    border-radius: 1rem;
+    align-items: center;
+    
+}
+.img{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.extra{
+    /* width: 68%;
+    height:99%; */
+    min-width: 100%;
+    min-height:300px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #ffe5cc;
+    /* float: right; */
+    word-break: break-word;
+    border-radius: 1rem;
+
+}
+.text{
+    min-width: 100%;
+    min-height:300px;
+    margin-top: 5%;
+    background-color:#ffe5cc;
+    float: none;
+    border-radius: 1rem;  
+}
+.text h1{
+    margin-left: 5%;
+    padding-top: 5%;
+}
+.text p{
+    margin-left: 5%;
+    margin-top: 10px;
+}
+.content{
+    min-height: 10%;
+}
+.text1{
+    align-items: center;
+}
+#img
+{
+   height :400px;
+   width :350px;
+  
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width:0.5rem;
+}

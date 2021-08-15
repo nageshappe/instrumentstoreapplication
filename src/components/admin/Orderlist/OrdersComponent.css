@@ -1,0 +1,38 @@
+.table{
+    margin: 5%;
+    max-width: fit-content;
+    background-color: white;
+    border-radius: 7px;
+}
+.style{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.hc {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+.head,.body {
+    padding: 12px 15px;
+}
+.br {
+    border-bottom: 1px solid #dddddd;
+}
+
+.br:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.br:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.btn{
+    float: right;
+    margin: 1%;
+    margin-bottom:auto ;
+}
